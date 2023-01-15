@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+
+#header-image {
+    height: 100px;
+    width: 100%;
+    background: url(../images/header-image.jpg);
+}
+
+#home-left-column-media {
+    height: 400px;
+    width: 400px;
+    background: url(../images/Ocptopus.JPG) no-repeat center center;
+}
+
+.center-column {
+    display: grid;
+	grid-template-columns: 100px 150px 200px;
+	text-align: center;
+}
