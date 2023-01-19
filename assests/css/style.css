@@ -7,13 +7,7 @@
 }
 
 #home-left-column-media {
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     background: url(../images/Ocptopus.JPG) no-repeat center center;
-}
-
-.center-column {
-    display: grid;
-	grid-template-columns: 100px 150px 200px;
-	text-align: center;
 }
